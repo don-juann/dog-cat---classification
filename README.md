@@ -25,6 +25,21 @@ Download the model named "model_2.keras" from Google Drive, either upload it to 
 If you are working in Google Colaboratory, press 'CTRL+F9' on Windows or "Command+F9" on Mac to launch the model. 
 Go to the last cell with empty function 'pred()' and write the address of your own image of dog or cat between brackets in a quotes, run the cell and get your answer.
 
+## Tech stack
+Environment:
+- Google Colaboratory
+- Kaggle
+
+Programming language:
+- Python 3.12.1
+
+Machine Learning tools and libraries:
+- Tensorflow
+- Keras
+- NumPy
+- Matplotlib
+- PIL (Python Imaging Library)
+
 ## Creator
 - Zhan Kazikhanov (Astana IT University)
 - jkazikhanov@gmail.com
